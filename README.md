@@ -34,3 +34,22 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+
+## 🚀 Quick Start
+
+1. Clone the repo
+2. Run `npm install`
+3. Copy `.env.example` to `.env.local` and add Supabase credentials
+4. Run `npm run dev`
+
+## 📱 PWA
+
+The app is a Progressive Web App that can be installed on mobile devices.
+
+## 🎨 Tech Stack
+
+- Next.js 15
+- Tailwind CSS
+- Supabase
+- TypeScript
+
